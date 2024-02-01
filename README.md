@@ -1,7 +1,5 @@
 👋 Hi, I’m @RedSkyRed
-I'm a computer scientist, with a background in data science, and website building.
-I also experiment with 3D animation.
-- My resume: 
+I am a full stack developer.
 
 <!---
 RedSkyRed/RedSkyRed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
