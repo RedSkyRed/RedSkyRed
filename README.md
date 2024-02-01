@@ -1,4 +1,4 @@
-👋 Hi, I’m @RedSkyRed
+I’m @RedSkyRed,
 I am a full stack developer.
 
 <!---
